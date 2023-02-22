@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Hadith-App",
+    "scheme": "myapp",
     "slug": "Hadith-App",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +28,7 @@
       }
     },
     "web": {
+      "bundler": "metro",
       "favicon": "./assets/favicon.png"
     }
   }
