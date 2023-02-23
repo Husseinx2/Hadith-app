@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "acme",
     "name": "Hadith-App",
     "slug": "Hadith-App",
     "version": "1.0.0",
@@ -27,6 +28,7 @@
       }
     },
     "web": {
+      "bundler": "metro",
       "favicon": "./assets/favicon.png"
     }
   }
