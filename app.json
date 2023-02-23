@@ -1,7 +1,7 @@
 {
   "expo": {
+    "scheme": "acme",
     "name": "Hadith-App",
-    "scheme": "myapp",
     "slug": "Hadith-App",
     "version": "1.0.0",
     "orientation": "portrait",

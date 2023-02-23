@@ -13,8 +13,6 @@ export default function App() {
       <View style={styles.container}>
         <StatusBar style="auto" />
         <Text>{t("name")}</Text>
-        <Text>{t("name")}</Text>
-        <Text>{t("name")}</Text>
         <Text>{t("app.title")}</Text>
       </View>
     </TailwindProvider>
