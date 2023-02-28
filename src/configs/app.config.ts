@@ -1,8 +1,8 @@
 const app = {
   theme: {
-    backgroundColor: "#0000",
-    textColor: "#0000",
-    border: "md",
+    backgroundColor: '#0000',
+    textColor: '#0000',
+    border: 'md',
   },
 };
 
