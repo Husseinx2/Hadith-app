@@ -1,6 +1,6 @@
 interface HadithLanguage {
-    code: string
-    native: string 
+  code: string;
+  native: string;
 }
 
-export default HadithLanguage
+export default HadithLanguage;
